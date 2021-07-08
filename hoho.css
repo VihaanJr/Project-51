@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://image.freepik.com/free-vector/hand-painted-colorful-watercolor-background_23-2148257408.jpg);
+    font-family: cursive;
+}
+
+.grid {
+    background-color: lightskyblue;
+    background-image: url(https://image.freepik.com/free-vector/abstract-hand-painted-background_23-2148434264.jpg);
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: cursive;
+}
+
+.grid img {
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    background-image: url(https://image.freepik.com/free-vector/abstract-hand-painted-background_23-2148434264.jpg);
+
+    
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    background-image: url(https://image.freepik.com/free-vector/hand-painted-colorful-watercolor-background_23-2148257408.jpg);
+
+}
